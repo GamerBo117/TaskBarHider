@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TaskBarHider (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "TaskBarHider (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
